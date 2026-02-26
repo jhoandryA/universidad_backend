@@ -11,11 +11,7 @@ Además, implementa **autenticación segura con JWT** y **auditoría completa** 
 ## 👥 Integrantes
 
 - Apaza Sandagorda, Jhoandry Albino  
-- Castro Rojas, Jorge Luis  
-- Vergara Tejada, Angela Paola  
-- Campos Arias, Camila Nicole  
-- Castillo Quispe, Abram Alberto  
-- Huatuco Bravo, Axel Yull  
+
 
 ---
 
