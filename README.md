@@ -16,7 +16,8 @@ El sistema centraliza la administración académica de una universidad: carreras
 
 ## 📐 Diagrama Entidad-Relación
 
-![Diagrama ER](DiagramaBaseDeDatos.png)
+<img width="796" height="842" alt="image" src="https://github.com/user-attachments/assets/78f05c6d-6f7f-4ccc-9710-783cb9271ee6" />
+
 
 > 💡 También disponible como [DiagramaBaseDeDatos.pdf](https://github.com/user-attachments/files/25757531/DiagramaBaseDeDatos.pdf) en este repositorio.
 
