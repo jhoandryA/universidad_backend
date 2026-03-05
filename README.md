@@ -105,7 +105,7 @@ La base de datos valida los datos por sí misma, sin depender únicamente del ba
 
 ---
 
-## 🎤 Guía de Exposición
+## Detalle de las tablas
 
 ### Introducción
 
