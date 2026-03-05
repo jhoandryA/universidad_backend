@@ -8,12 +8,6 @@ Además, implementa **autenticación segura con JWT** y **auditoría completa** 
 
 ---
 
-## 👥 Integrantes
-
-- Apaza Sandagorda, Jhoandry Albino  
-
-
----
 
 ## 🎯 Alcance del Proyecto
 
